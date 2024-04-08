@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\point\point\bin\Debug\point.exe.config
+C:\Users\Astral\source\repos\point\point\bin\Debug\point.exe
+C:\Users\Astral\source\repos\point\point\bin\Debug\point.pdb
+C:\Users\Astral\source\repos\point\point\obj\Debug\point.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\point\point\obj\Debug\point.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\point\point\obj\Debug\point.exe
+C:\Users\Astral\source\repos\point\point\obj\Debug\point.pdb
